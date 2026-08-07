@@ -8,11 +8,11 @@
 
 🎯 Interesse em:
 - Ciência de Dados e Análise de Dados
-- Estruturas de Dados e Algoritmos
+- Algoritmos e Lógica de Programação
 - Desenvolvimento Backend
 - Boas práticas de código e documentação
 
-📫 Contato: [LinkedIn](SEU_LINK_AQUI) 
+📫 Contato: [LinkedIn](https://www.linkedin.com/in/arthur-ronald-soares-evaristo-546729427/)
 
 ---
 
@@ -27,4 +27,4 @@
 
 ### 📊 GitHub Stats
 
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArthurRonald&show_icons=true&theme=dark)
+![Arthur's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ArthurRonald&show_icons=true&theme=dark)
