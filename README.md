@@ -4,7 +4,17 @@
 
 💻 Trabalho com Python, C e Java
 
-🚀 Projeto em destaque: sistema de montagem de treinos de corrida com integração à API do Gemini (Streamlit)
+---
+
+### 🚀 Projetos em destaque
+
+**[Sistema de Treinos de Corrida](https://github.com/ArthurRonald/Sistema-para-montagem-de-treinos-de-corrida)**
+Plataforma em Python (Streamlit) com integração à API do Gemini para geração de treinos personalizados.
+
+**[Árvore Genealógica em C](https://github.com/ArthurRonald/ArvoreGenealogica)**
+Estrutura de dados em árvore implementada em C, com ponteiros e alocação dinâmica de memória.
+
+---
 
 🎯 Interesse em:
 - Ciência de Dados e Análise de Dados
