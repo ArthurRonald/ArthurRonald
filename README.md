@@ -1,4 +1,4 @@
-### Olá, eu sou o Arthur! 👋
+### Olá, eu sou Arthur! 👋
 
 🎓 Bacharelando em Ciência da Computação (3º período)
 
@@ -34,7 +34,3 @@ Estrutura de dados em árvore implementada em C, com ponteiros e alocação din�
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-
-![Arthur's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ArthurRonald&show_icons=true&theme=dark)
